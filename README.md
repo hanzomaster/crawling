@@ -1,3 +1,7 @@
-# Crawl [this](https://jprp.vn/index.php/JPRP/issue/archive) by hand
+# Bài tập trên lab
 
-Export name, article, date pulished and doi of all the article in this [url](https://jprp.vn/index.php/JPRP/issue/archive) to an excel file
+## Hãy crawl trang web [này](https://jprp.vn/index.php/JPRP/issue/archive) và đưa ra thông tin của tất cả các bài báo bao gồm tên báo, số báo, ngày đăng và DOI. Thông tin được xuất ra file excel
+
+## Installation
+
+- Run `pnpm i` and `pnpm start`, result will be exported to `JRSP.excel`
